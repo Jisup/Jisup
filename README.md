@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20&height=300&fontSize=150&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20&height=300&fontSize=150)
 
 <h2 align="center"> 한번이라도 사용했던 기술 </h2>
 
