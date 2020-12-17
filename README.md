@@ -1,4 +1,7 @@
-### Hi there 👋
+### Jisu Park
+
+<h align="center"> 한번이라도 사용했던 기술 </h>
+<h1 align="center"> 한번이라도 사용했던 기술 </h1>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jisup&show_icons=true&theme=radical))](https://github.com/Jisup/github-readme-stats)
 
