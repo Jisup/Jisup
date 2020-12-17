@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20&height=200&fontSize=100&text=%20malangdidoo%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FF66CC&text=%20JisuPark%20&text=%20malangdidoo%20&height=200&fontSize=75&fontColor=000000)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jerryprk)](https://solved.ac/jerryprk)
 
