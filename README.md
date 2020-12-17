@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20&height=300&fontSize=150)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jisup&show_icons=true&theme=radical)](https://github.com/Jisup/github-readme-stats)
-
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jerryprk)](https://solved.ac/jerryprk)
 
 
@@ -23,10 +21,11 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <!--
+  <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+  -->
 </p>
 
 - - -
 
-<!--
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jisup&show_icons=true&theme=radical)](https://github.com/Jisup/github-readme-stats)
