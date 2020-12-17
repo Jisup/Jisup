@@ -1,5 +1,6 @@
 
-###BaekJoon Online Judge
+### BaekJoon Online Judge
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jerryprk)](https://solved.ac/jerryprk)
 
 
