@@ -2,9 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jisup&show_icons=true&theme=radical)](https://github.com/Jisup/github-readme-stats)
 
-<p align="center">
-  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jerryprk)](https://solved.ac/jerryprk)
-</p>
+![]([![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jerryprk)](https://solved.ac/jerryprk))
 
 <p align="center">being studied</p>
 <p align="center">
