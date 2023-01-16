@@ -73,6 +73,11 @@
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a> 
 
+- 
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a> 
+  [Amazon CloudFront] 
+  [Amazon Route 53] 
+  
 <br />
 
 ---
