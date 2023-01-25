@@ -10,7 +10,13 @@
 - 현재는 JavaScript 기반으로 React와 Redux를 활용하여 프론트엔드를 개발합니다. 
 - 앞으로 ReactNative 및 TypeScript를 활용하고 싶어요.
 
-<br />
+---
+
+<h3>🐇 제작에 참여한 서비스는 다음과 같아요! </h3>
+
+- 🥕 [Relive-Travel](https://relive-travel.site/)
+
+---
 
 <h3> ※ 저는 <span style="color:#ff6622;">프론트엔드</span>의 이런 점이 좋아요! </h3>
 
