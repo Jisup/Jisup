@@ -14,7 +14,7 @@
 
 <h3>🐇 제작에 참여한 서비스는 다음과 같아요! </h3>
 
-- 🥕 [Relive-Travel](https://relive-travel.site/)
+- 2022.10 ~ 2023.01 | 🥕 [Relive-Travel](https://relive-travel.site/)
 
 ---
 
