@@ -9,7 +9,8 @@
 
 <h3>🐇 제작에 참여한 서비스는 다음과 같아요! </h3>
 
-- 2022.10 ~ 2023.01 | 🥕 Relive-Travel
+- 2023.11 ~ xxxx.xx | 🥕 [Relive-Travel](https://github.com/relive-travel/android-app) (App)
+- 2022.10 ~ 2023.01 | 🥕 [Relive-Travel](https://github.com/relive-travel/react-web) (Web)
 
 ### 🛠️ Tech Stack
 
