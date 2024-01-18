@@ -9,9 +9,9 @@
 
 <h3>🐇 제작에 참여한 서비스는 다음과 같아요! </h3>
 
-- 2023.12 ~ xxxx.xx | 🥕 [MapleApp](https://github.com/Jisup/maple_app) (App: Flutter)
-- 2023.11 ~ xxxx.xx | 🥕 [Relive-Travel](https://github.com/relive-travel/android-app) (App: Android) (중단)
-- 2022.10 ~ 2023.01 | 🥕 [Relive-Travel](https://github.com/relive-travel/react-web) (Web: React)
+- 2023.12.22 ~ 2023.01.18 | 🥕 [MapleApp]() (App: Flutter)
+- 2023.11.xx ~ xxxx.xx.xx | 🥕 [Relive-Travel](https://github.com/relive-travel/android-app) (App: Android) (중단)
+- 2022.10.10 ~ 2023.01.15 | 🥕 [Relive-Travel](https://github.com/relive-travel/react-web) (Web: React)
 
 ### 🛠️ Tech Stack
 
@@ -31,11 +31,13 @@
 
 ### 📒 FE Framework & Libraries
 - Framework :
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=React&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> 
 
-- Library : 
+- Library :
+  [Riverpod]
+  [Dio]
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/></a> 
