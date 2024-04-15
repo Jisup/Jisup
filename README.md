@@ -9,7 +9,7 @@
 
 <h3>🐇 제작에 참여한 서비스는 다음과 같아요! </h3>
 
-- 2023.12.22 ~ 2024.01.18 | 🥕 [MapleSpy](https://github.com/Jisup/maple_spy) (App: Flutter) </br> 2024.02.20 ~ 2024.03.18 | 
+- 2023.12.22 ~ 2024.01.18 | 🥕 [MapleSpy](https://github.com/Jisup/maple_spy) (App: Flutter) </br> 2024.02.20 ~ 2024.03.18 | Play Store 출시 </br> 2024.04.08 ~ 2024.04.11 | App Store 출시
 
 - 2022.10.10 ~ 2023.01.15 | 🥕 [Relive-Travel](https://github.com/relive-travel/react-web) (Web: React)
 
